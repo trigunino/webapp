@@ -1,0 +1,7 @@
+{
+  "keycloak": {
+    "url": "http://UKDRSYNCROWEB:8084",
+    "realm": "ePSEscada",
+    "clientId": "SyncroAPI"
+  }
+}
